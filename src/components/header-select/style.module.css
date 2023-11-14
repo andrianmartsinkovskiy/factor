@@ -1,0 +1,21 @@
+.list {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+}
+
+.label {
+  padding: 6px 8px;
+  border-radius: 16px;
+  background-color: #3D444B;
+  color: rgba(255, 255, 255, 0.50);
+  font-family: Proxima Nova, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.labelActive {
+  background-color: #E2414E;
+  color: #fff;
+}
